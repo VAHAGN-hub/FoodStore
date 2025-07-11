@@ -1,4 +1,4 @@
-# FoodStore (Grub-based)
+# FoodStore
 
 ## Описание
 Codename One проект с Яндекс.Картами, ролями: Client, Courier, Restaurant, Admin. Backend — Node.js REST API.
